@@ -43,7 +43,7 @@ pip3 install you-dl
 Once installed you can run
 
 ```
-iydl 
+you-dl 
 ```
 Tip: Copy video or playlist url before running you-dl
 
