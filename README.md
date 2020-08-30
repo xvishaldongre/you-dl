@@ -58,5 +58,5 @@ Tip: Copy video or playlist url before running you-dl
 - Add support for config file.
 - Better README.
 - Error handling.
-- cli interface for help .
+- CLI interface for help .
 - And lots more.
