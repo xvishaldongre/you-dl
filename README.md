@@ -1,5 +1,5 @@
 # you-dl 
-![](https://img.shields.io/badge/Release-v1.0-greeny.svg)
+![](https://img.shields.io/badge/Release-v1.0.1-greeny.svg)
 
 > A simple interactive youtube video and playlist downloader written in python.
 > Interactively select the quality and format for youtube-dl.
