@@ -35,7 +35,7 @@ Because remembering CLI flags is hard.
 
 - you-dl is available on pypi
 ```
-pip3 install you-dl
+pip install you-dl
 ```
 
 # Usage
