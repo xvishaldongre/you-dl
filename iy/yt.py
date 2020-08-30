@@ -18,7 +18,7 @@ def main():
     default_opts = {
         'progress_hooks': [my_hook],
         'verbose': False,
-        'http_chunk_size': '200M',
+        'http_chunk_size': 2097152000,
     }
 
     url = questions.start_1()
