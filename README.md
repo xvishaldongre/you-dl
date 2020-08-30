@@ -7,6 +7,11 @@
 A [youtube-dl](https://github.com/ytdl-org/youtube-dl) wrapper, which helps you to download a specific format and also support playlists. 
 
 
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/xvishaldongre/you-dl/master/demo.svg?sanitize=true">
+</p>
+
+
 # Why?
 Because remembering CLI flags is hard.  
 
