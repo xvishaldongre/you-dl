@@ -1,4 +1,4 @@
-# iydl 
+# you-dl 
 ![](https://img.shields.io/badge/Release-v1.0-greeny.svg)
 
 > A simple interactive youtube video and playlist downloader written in python.
@@ -28,9 +28,9 @@ Because remembering CLI flags is hard.
 
 # Install
 
-- iydl is available on pypi
+- you-dl is available on pypi
 ```
-pip3 install iydl
+pip3 install you-dl
 ```
 
 # Usage
@@ -40,7 +40,7 @@ Once installed you can run
 ```
 iydl 
 ```
-Tip: Copy video or playlist url before running iydl
+Tip: Copy video or playlist url before running you-dl
 
 
 
