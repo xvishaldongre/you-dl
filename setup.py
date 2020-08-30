@@ -17,7 +17,7 @@ setup(
     description="A simple interactive youtube downloader written in python. Interactively select the quality and format for youtube-dl",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/xvishaldongre/iydl",
+    url="https://github.com/xvishaldongre/you-dl",
     packages=find_namespace_packages(),
     install_requires=['youtube-dl', 'prompt_toolkit==1.0.14','PyInquirer',
                       'regex', 'youtube-search-python', 'pyperclip'],
