@@ -1,5 +1,5 @@
 # you-dl 
-![](https://img.shields.io/badge/Release-v1.4.0-greeny.svg)
+![](https://img.shields.io/badge/Release-v1.4.1-greeny.svg)
 
 > A simple interactive youtube video and playlist downloader written in python.
 > Interactively select the quality and format for youtube-dl.
@@ -30,10 +30,12 @@ Because remembering CLI flags is hard.
 - PyInquirer
 - youtubesearchpython
 - pyperclip
+- pafy
 
 # Install
 
 - you-dl is available on pypi
+Note: Linux user first install xclip and ffmpeg
 ```
 pip install you-dl
 ```
