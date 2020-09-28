@@ -20,7 +20,8 @@ setup(
     url="https://github.com/xvishaldongre/you-dl",
     packages=find_namespace_packages(),
     install_requires=['youtube-dl', 'prompt_toolkit==1.0.14','PyInquirer',
-                      'regex', 'youtube-search-python', 'pyperclip'],
+                      'regex', 'youtube-search-python', 'pyperclip',
+                      'pyfiglet', 'halo', 'click', 'rich', 'humanfriendly'],
     include_package_data=True,
     
     classifiers=[
